@@ -61,7 +61,7 @@ This project showcases data cleaning, transformation, and analysis performed on 
   ```excel
   Profit_Margin = Total_Amount - (Quantity × Price_Per_Unit × 0.6)
 
-  ![Screenshot 2025-05-13 102925](https://github.com/user-attachments/assets/7520f9a7-592d-4ff0-89aa-9e25d732b269)
+  
 
 ![Screenshot 2025-05-13 102936](https://github.com/user-attachments/assets/31831a94-394c-4046-b492-96b47df5b953)
 
